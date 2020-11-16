@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  You can find me on [![Twitter][1.1]][1] 
 
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="50%" height="50%">
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="30%" height="30%">
 
 <!-- links for twitter icon and profile -->
  
