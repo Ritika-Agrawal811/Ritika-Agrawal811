@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - :heart: I am an avid reader, foodie and love to sketch.
 - 😄 Pronouns: she/her <br>
 
-[[![alt text][1.1]][1]
+[[![https://github.com/carlsednaoui/gitsocial][1.1]][1]
 
 
