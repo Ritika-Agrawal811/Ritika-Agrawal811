@@ -1,4 +1,4 @@
-### Hi folks 👋
+### Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ***I am Ritika Agrawal, a third year college student aspiring to be a web developer. Welcome to my Readme.md! <br>
 
 Here are some ideas to get you started:
@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - :heart: I am an avid reader, foodie and love to sketch.
 - 😄 Pronouns: she/her <br>
 
-[[![https://github.com/carlsednaoui/gitsocial][1.1]][1]
+
 
 
