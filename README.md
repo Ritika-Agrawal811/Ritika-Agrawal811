@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing my webdev skills.
 - 👯 I’m looking to connect with people, share ideas and knowledge with them.
 - :heart: I am an avid reader, foodie and love to sketch.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her <br>
+
+[1.1]: http://i.imgur.com/tXSoThF.png
 
 
