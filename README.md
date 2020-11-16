@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to connect with people, share ideas and knowledge with them.
 - :heart: I am an avid reader, foodie and love to sketch.
 - 😄 Pronouns: she/her <br>
-<p>
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  You can find me on [![Twitter][1.1]][1] 
 
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="30%" height="30%" align="right">
-</P>
+
 <!-- links for twitter icon and profile -->
  
  [1.1]: http://i.imgur.com/tXSoThF.png
