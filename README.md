@@ -2,16 +2,16 @@
 **I am Ritika Agrawal, a third year college student aspiring to be a web developer. Welcome to my Readme.md! <br>
 
 Here are some ideas to get you started:
-<p>
+
 - 🔭 I’m currently working on developing my webdev skills.                                                               
 - 👯 I’m looking to connect with people, share ideas and knowledge with them.
 - :heart: I am an avid reader, foodie and love to sketch.
 - 😄 Pronouns: she/her <br>
-
+<p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  You can find me on [![Twitter][1.1]][1] 
 
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="30%" height="30%" align="right">
-</p>
+</P>
 <!-- links for twitter icon and profile -->
  
  [1.1]: http://i.imgur.com/tXSoThF.png
