@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - :heart: I am an avid reader, foodie and love to sketch.
 - 😄 Pronouns: she/her <br>
 
- You can find me on [![Twitter][1.1]][1]
+<center> You can find me on [![Twitter][1.1]][1] </center>
  
  [1.1]: http://i.imgur.com/tXSoThF.png
  [1]: https://twitter.com/RitikaAgrawal08
