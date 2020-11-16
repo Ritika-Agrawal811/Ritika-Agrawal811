@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her <br>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  You can find me on [![Twitter][1.1]][1] 
+
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png">
+
+<!-- links for twitter icon and profile -->
  
  [1.1]: http://i.imgur.com/tXSoThF.png
  [1]: https://twitter.com/RitikaAgrawal08
