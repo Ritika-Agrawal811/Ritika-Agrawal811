@@ -1,5 +1,5 @@
-### Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**I am Ritika Agrawal, a third year college student aspiring to be a web developer. Welcome to my Readme.md! <br>
+## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**I am Ritika Agrawal, a third year college student aspiring to be a web developer. Welcome to my Readme.md!** <br>
 
 Here are some ideas to get you started:
 
