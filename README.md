@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 
 [![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Agrawal811)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  You can find me on [![Twitter][1.1]][1] 
 
 &nbsp; &nbsp; &nbsp; *Below is a CSS Art that I made*
