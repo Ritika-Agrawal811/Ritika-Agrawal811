@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing my webdev skills.                                                               
 - 👯 I’m looking to connect with people, share ideas and knowledge with them.
 - :heart: I am an avid reader, foodie and love to sketch.
-- 😄 Pronouns: she/her <br>
+
 
 [![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Agrawal811)](https://github.com/anuraghazra/github-readme-stats)
 
