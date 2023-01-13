@@ -1,5 +1,5 @@
 ## Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**I am Ritika Agrawal. I am self learning to be a frontend developer. Welcome to my Readme.md!!** <br>
+**I am Ritika Agrawal. I am self learning to be a frontend developer!** <br>
 
 Here are some ideas to get you started:
 
