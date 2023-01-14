@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 
 *Below is a CSS Art that I made*
-
+| Origami Reindeer | Single Div Mario | Single Div Cake |
+|------------------ | ---------------- | --------------- |
 | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="25%" height="25%" /> |
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="25%" height="25%" /> |
 <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="25%" height="25%" /> |
