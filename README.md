@@ -1,5 +1,5 @@
 # Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p style="color=blue;">I am Ritika Agrawal. I am self learning to be a frontend developer!</p> <br>
+<p style="color:blue; font-size:24px">I am Ritika Agrawal. I am self learning to be a frontend developer!</p> <br>
 <hr/>
 :small_orange_diamond: **Here are some ideas to get you started:** :point_down:
 
