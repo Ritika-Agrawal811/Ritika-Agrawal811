@@ -24,17 +24,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white" alt="Connect with on CodePen"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
+### My Blogs
+| | **Medium.com** |
+| --- | ----- |
+|:link: | [::before/::after — A Complete Guide](https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520) |
+|:link:| [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f) |
+|:link:| [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) |
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
 ### Some of my CSS Arts
 | Origami Reindeer | Single Div Mario | Single Div Cake |
 |:------------------: | :------------------: | :---------------: |
 | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="75%" height="75%" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="100%" height="100%" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="75%" height="50%" align="center" /> |
 
-### My Blogs
-| | **Medium.com** |
-| --- | :-----: |
-|:link: | [::before/::after — A Complete Guide](https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520) |
-|:link:| [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f) |
-|:link:| [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) |
+<hr/>
+
