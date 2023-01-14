@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/RitikaAgrawal08">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Connect with on Twitter"/>
 </a>
+<a href="https://codepen.io/RitikaAgrawal08">
+  <img src="https://img.shields.io/badge/CodePen-#000000?style=for-the-badge&logo=CodePen&logoColor=white" alt="Connect with on CodePen"/>
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
