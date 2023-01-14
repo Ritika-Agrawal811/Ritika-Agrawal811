@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="75%" height="75%" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="100%" height="100%" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="75%" height="50%" align="center" /> |
 
 ### My Blogs
-| | **Medium** |
-|---|-----------|
+
 |:link: | [::before/::after — A Complete Guide](https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520) |
 |:link:| [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f) |
 |:link:| [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) |
