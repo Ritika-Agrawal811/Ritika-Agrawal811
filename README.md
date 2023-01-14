@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
 
-*Below is a CSS Art that I made*
+### Some of my CSS Arts
 | Origami Reindeer | Single Div Mario | Single Div Cake |
 |:------------------: | :----------------: | :---------------: |
 | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="75%" height="75%" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="100%" height="100%" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="75%" height="50%" align="center" /> |
