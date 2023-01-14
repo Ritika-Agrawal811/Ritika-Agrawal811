@@ -26,14 +26,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
-  You can find me on [![Twitter][1.1]][1] 
 
 *Below is a CSS Art that I made*
 
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="30%" height="30%" text-align="center">
-
-<!-- links for twitter icon and profile -->
- 
- [1.1]: http://i.imgur.com/tXSoThF.png
- [1]: https://twitter.com/RitikaAgrawal08
-
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="25%" height="25%" />
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="25%" height="25%" />
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="25%" height="25%" />
