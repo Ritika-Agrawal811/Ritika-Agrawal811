@@ -30,6 +30,9 @@
 |:link:| [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f) |
 |:link:| [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) |
 
+
+## :star: My GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
 ## :art: Some of my CSS Arts
