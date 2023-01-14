@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - :heart: I am an avid reader, foodie and love to sketch and watch Anime
 
 ### My Tech Stack
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=blue)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
