@@ -38,7 +38,7 @@
 ## :art: Some of my CSS Arts
 | Origami Reindeer | Single Div Mario | Single Div Cake |
 |:------------------: | :------------------: | :---------------: |
-| <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="750" height="750" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="500" height="500" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="750" height="500" align="center" /> |
+| <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605568639/reindeer_taffgx.png" width="300" height="300" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041667/Mario_xn25sp.png" width="250" height="250" align="center" /> | <img src="https://res.cloudinary.com/djix6uusx/image/upload/v1631041668/Single_Div_cake_nxlmr2.png" width="300" height="250" align="center" /> |
 
 <hr/>
 
