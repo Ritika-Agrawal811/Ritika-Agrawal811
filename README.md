@@ -32,11 +32,11 @@
 
 
 ## :star: My GitHub Stats
-![Ritika's Github Stats](https://github-readme-stats.vercel.app/api?username=Ritika-Agrawal811)
+![Ritika's Github Stats](https://github-readme-stats.vercel.app/api?username=Ritika-Agrawal811&show_icons=true)
 <br/> <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 <br/> <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Agrawal811&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Agrawal811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :art: Some of my CSS Arts
 | Origami Reindeer | Single Div Mario | Single Div Cake |
