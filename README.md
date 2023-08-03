@@ -1,8 +1,7 @@
 # Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I am Ritika Agrawal. I am self learning to be a frontend developer!
  **Know more about me** :point_down:
-
-- 🔭 I’m currently working as an IT Executive at one of the FinTech firms where my work revolves around project management and testing.                           
+                         
 - 👯 I’m looking to connect with people, share ideas and knowledge with them.
 - :heart: I am an avid reader, foodie and love to sketch and watch Anime
 
