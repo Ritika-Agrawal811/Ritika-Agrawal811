@@ -1,9 +1,8 @@
 # Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I am Ritika Agrawal. I am self learning to be a frontend developer!
- **Know more about me** :point_down:
-                         
+ **Know more about me** :point_down:                       
 - 👯 I’m looking to connect with people, share ideas and knowledge with them.
-- :heart: I am an avid reader, foodie and love to sketch and watch Anime
+- :heart: I am an avid reader, foodie and love to sketch and watch Anime.
 
  ## :computer: My Tech Stack
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
