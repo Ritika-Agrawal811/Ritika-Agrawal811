@@ -3,9 +3,9 @@
 ### I am Ritika Agrawal. I am self learning to be a frontend developer!
 
 - 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08).
-- 🔥I am always striving to work hard & learn new tools.
-- 👯 I’m looking to connect with people, share ideas and knowledge with them.
-- 📕 I am an avid reader, foodie and watch Anime.
+- 🔥 Always striving to work hard & learn new tools.
+- 👯 Looking to connect with people, share ideas and knowledge with them.
+- 📕 An avid reader, Foodie and love to watch Anime.
 - 🖍️I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb).
 
 ## :computer: My Tech Stack
