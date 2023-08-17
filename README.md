@@ -47,7 +47,7 @@
 <br/> <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 <br/> <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Agrawal811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ritika-agrawal811.vercel.app/api/top-langs/?username=Ritika-Agrawal811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :art: Some of my CSS Arts
 
