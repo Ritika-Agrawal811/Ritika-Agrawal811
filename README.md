@@ -1,6 +1,7 @@
 # Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Ritika Agrawal. I am self learning to be a frontend developer!
+### I am Ritika Agrawal.
+#### Frontend Developer | Technical Writer
 
 - 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08).
 - 🔥 Always striving to work hard & learn new tools.
