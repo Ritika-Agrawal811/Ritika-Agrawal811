@@ -1,6 +1,5 @@
-# Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Ritika Agrawal.
+### Hi folks! I am Ritika Agrawal.
 #### Frontend Developer | Technical Writer
 
 - 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08).
