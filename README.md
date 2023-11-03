@@ -1,6 +1,6 @@
 
-### Hi folks! I am Ritika Agrawal.
-#### Frontend Developer | Technical Writer
+## Hi folks! I am Ritika Agrawal.
+### Frontend Developer | Technical Writer
 
 - 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08).
 - 🔥 Always striving to work hard & learn new tools.
