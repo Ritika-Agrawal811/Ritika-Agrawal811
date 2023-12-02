@@ -6,7 +6,7 @@
 - 🔥 Always striving to work hard & learn new tools.
 - 👯 Looking to connect with people, share ideas and knowledge with them.
 - 📕 An avid reader, Foodie and love to watch Anime.
-- 🖍️I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb).
+- 🖍️I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
 
 ## :computer: My Tech Stack
 
