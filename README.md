@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<img src="images/slinky.png" align="left" alt="my single div baby yoda CSS art" style=" height:300px;"/>
+<img src="images/slinky.png" align="left" alt="my single div baby yoda CSS art" style=" height:250px;"/>
 
 ## :computer: My Tech Stack
 
