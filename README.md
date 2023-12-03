@@ -59,6 +59,9 @@
 <br/> <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
-<img src="images/gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
+<br/>
+<br/>
+
+<img src="images/gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;" align="center">
 
 <hr/>
