@@ -12,11 +12,17 @@
 - 📕 An avid reader, Foodie and love to watch Anime.
 - 🖍️I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
 
+<br/>
+<br/>
+
 ## :books: My Blogs
 
 - [::before/::after — A Complete Guide](https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520)
 - [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f)
 - [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) - [Exploring CSS Flexbox: Getting Started with the Basics](https://medium.com/@RitikaAgrawal08/exploring-css-flexbox-getting-started-with-the-basics-1174eea3ad4e)
+
+<br/>
+<br/>
 
 <img src="images/slinky.png" align="left" alt="my single div baby yoda CSS art" style=" height:300px;"/>
 
@@ -43,6 +49,9 @@
 <a href="https://medium.com/@RitikaAgrawal08">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Connect with on Medium"/>
 </a>
+
+<br/>
+<br/>
 
 ## :star: My GitHub Stats
 
