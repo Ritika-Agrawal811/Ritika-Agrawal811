@@ -62,6 +62,8 @@
 <br/>
 <br/>
 
-<img src="images/gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;" align="center">
+<div align="center">
+<img src="images/gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
+</div>
 
 <hr/>
