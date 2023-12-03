@@ -1,6 +1,10 @@
+<span style="font-size: 1.75rem">Hi folks! I am Ritika Agrawal. <span/>
 
-## Hi folks! I am Ritika Agrawal.
-### Frontend Developer | Technical Writer
+<p>I am a dedicated frontend developer with expertise in CSS and a penchant for creating seamless animations. I actively share valuable web development insights on Twitter. I am currently honing skills in ReactJS while contributing to a startup's success.</p>
+
+<img src="images/baby_yoda.png" alt="my single div baby yoda CSS art" style="float: right; height:350px;"/>
+
+### :heart: More facts about Me!
 
 - 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08).
 - 🔥 Always striving to work hard & learn new tools.
@@ -46,7 +50,6 @@
 ![Ritika's Github Stats](https://github-readme-stats-jazv56o02-ritika-agrawal811.vercel.app/api?username=Ritika-Agrawal811&show_icons=true)
 <br/> <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
-
 
 ## :art: Some of my CSS Arts
 
