@@ -18,7 +18,7 @@
 - [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f)
 - [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) - [Exploring CSS Flexbox: Getting Started with the Basics](https://medium.com/@RitikaAgrawal08/exploring-css-flexbox-getting-started-with-the-basics-1174eea3ad4e)
 
-<img src="images/slinky.png" align="left" alt="my single div baby yoda CSS art" style=" height:400px;"/>
+<img src="images/slinky.png" align="left" alt="my single div baby yoda CSS art" style=" height:300px;"/>
 
 ## :computer: My Tech Stack
 
