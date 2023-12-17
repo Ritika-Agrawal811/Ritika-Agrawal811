@@ -9,7 +9,7 @@
 - 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08).
 - 🔥 Always striving to work hard & learn new tools.
 - 👯 Looking to connect with people, share ideas and knowledge with them.
-- 📕 An avid reader, Foodie and love to watch Anime.
+- 📕 An avid reader, foodie and love to watch anime.
 - 🖍️I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
 
 <br/>
