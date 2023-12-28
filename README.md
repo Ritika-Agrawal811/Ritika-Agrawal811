@@ -1,6 +1,6 @@
 # Hi folks! I am Ritika Agrawal.
 
-<p>I am a dedicated frontend developer with expertise in CSS and a penchant for creating seamless animations. I actively share valuable web development insights on Twitter. I am currently honing skills in ReactJS while contributing to a startup's success.</p>
+<p>I am a dedicated frontend developer with expertise in CSS and a penchant for creating seamless animations. I actively share valuable web development insights on Twitter. I am currently honing skills in NextJS while contributing to a startup's success.</p>
 
 <img src="images/baby_yoda.png" align="right" alt="my single div baby yoda CSS art" style=" height:200px;"/>
 
