@@ -19,7 +19,8 @@
 
 - [::before/::after — A Complete Guide](https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520)
 - [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f)
-- [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) - [Exploring CSS Flexbox: Getting Started with the Basics](https://medium.com/@RitikaAgrawal08/exploring-css-flexbox-getting-started-with-the-basics-1174eea3ad4e)
+- [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec)
+- [Exploring CSS Flexbox: Getting Started with the Basics](https://medium.com/@RitikaAgrawal08/exploring-css-flexbox-getting-started-with-the-basics-1174eea3ad4e)
 
 <br/>
 <br/>
