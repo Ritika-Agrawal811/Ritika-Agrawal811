@@ -6,7 +6,7 @@
 
 ### :heart: More facts about Me!
 
-- 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08)!.
+- 💜 I love working with CSS. Checkout my [codepens](https://codepen.io/RitikaAgrawal08)!
 - 🔥 Always striving to work hard & learn new tools.
 - 👯 Looking to connect with people, share ideas and knowledge with them.
 - 📕 An avid reader, foodie and love to watch anime.
