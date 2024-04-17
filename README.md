@@ -1,3 +1,8 @@
+<p align="center" float="left">
+  <img align="left" src="https://komarev.com/ghpvc/?username=Ritika-Agrawal811&label=Profile%20views&color=2a17d1" alt="Profile Views"/>
+  <img align="right" src="https://img.shields.io/github/followers/Ritika-Agrawal811?color=2a17d1&label=Followers" alt="Follower Count" /> 
+</p>
+
 # Hi folks! I am Ritika Agrawal.
 
 <p>I am a dedicated frontend developer with expertise in CSS and a penchant for creating seamless animations. I actively share valuable web development insights on Twitter. I am currently honing skills in NextJS while contributing to a startup's success.</p>
