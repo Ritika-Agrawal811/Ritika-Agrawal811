@@ -61,7 +61,7 @@
 
 ## :star: My GitHub Stats
 
-![Ritika's Github Stats](https://github-readme-stats-g3uqc0skp-ritika-agrawals-projects.vercel.app/api?username=Ritika-Agrawal811&show_icons=true)
+![Ritika's Github Stats](https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true)
 <br/> <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
