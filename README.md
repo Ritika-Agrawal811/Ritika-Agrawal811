@@ -5,7 +5,7 @@
 
 # Hi folks! I am Ritika Agrawal.
 
-<p>I am a dedicated frontend developer with expertise in CSS and a penchant for creating seamless animations. I actively share valuable web development insights on Twitter. I am currently honing skills in NextJS while contributing to a startup's success.</p>
+<p>I am a dedicated fullstack developer with expertise in CSS and a penchant for creating seamless animations. I actively share valuable web development insights on Twitter. I am currently honing my backend skills while contributing to a startup's success.</p>
 
 <img src="images/baby_yoda.png" align="right" alt="my single div baby yoda CSS art" style=" height:200px;"/>
 
@@ -27,10 +27,6 @@
 - [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec)
 - [Exploring CSS Flexbox: Getting Started with the Basics](https://medium.com/@RitikaAgrawal08/exploring-css-flexbox-getting-started-with-the-basics-1174eea3ad4e)
 
-<br/>
-<br/>
-
-<img src="images/slinky.png" align="left" alt="my single div baby yoda CSS art" style=" height:250px;"/>
 
 ## :computer: My Tech Stack
 
@@ -65,11 +61,3 @@
 <br/> <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
-<br/>
-<br/>
-
-<div align="center">
-<img src="images/gary.png" alt="my no-div gary CSS art carrying a quote" style=" height:150px;">
-</div>
-
-<hr/>
