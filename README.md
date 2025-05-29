@@ -2,6 +2,9 @@
    <h1>Hi folks! I'm </h1> 
    <img src="./images/name-slow.gif"> 
 
+   <br/>
+   <br/>
+
    <p align='center'>
 <a href="https://twitter.com/RitikaAgrawal08"><img height="35" src="/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://codepen.io/RitikaAgrawal08"><img height="38" src="/images/codepen.png"></a>&nbsp;&nbsp;
@@ -21,11 +24,11 @@
 
 I actively share valuable web development insights on Twitter/X. I am currently honing my backend skills while contributing to a startup's success.</p>
 
+#### Yes, this is made with CSS :point_down: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)! 
+
 <img src="images/slinky.png" alt="my single div slinky CSS art" style=" height:250px;"/>
 
-Yes this is made with CSS :point_up: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)!
-
-#### More about me :point_down:
+### More about me :point_down:
 - 📕 An avid reader, foodie and love to watch anime.
 - 🖍️ I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
 - 🔥 Always striving to work hard & learn new tools.
