@@ -41,24 +41,21 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-3490dc?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
-
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,typescript,redux)](https://skillicons.dev)
 
 
 ### Backend
 
+[![Backend Skills](https://skillicons.dev/icons?i=go,nodejs,graphql,kafka,redis)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql)](https://skillicons.dev)
 
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman)](https://skillicons.dev)
 
 
 
