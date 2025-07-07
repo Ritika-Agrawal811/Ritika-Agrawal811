@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi folks! <img height="45" src="./images/handshake.png">  I'm </h1> 
+   <h1>Hi folks! <img width="45" height="45" src="./images/handshake.png">  I'm </h1> 
    <img src="./images/name-slow.gif"> 
 
    <br/>
@@ -10,11 +10,11 @@
    <br/>
    
    <p align='center'>
-<a href="https://twitter.com/RitikaAgrawal08"><img height="35" src="/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://codepen.io/RitikaAgrawal08"><img height="38" src="/images/codepen.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/ritikaagrawal08"><img height="35" src="./images/devto.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@RitikaAgrawal08"><img height="38" src="/images/medium.png"></a>&nbsp;&nbsp;
-<a href="https://ritikaagrawal08.gumroad.com/"><img height="38" src="/images/gumroad.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/RitikaAgrawal08"><img width="35" height="35" src="/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://codepen.io/RitikaAgrawal08"><img width="38" height="38" src="/images/codepen.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/ritikaagrawal08"><img width="35" height="35" src="./images/devto.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@RitikaAgrawal08"><img width="38" height="38" src="/images/medium.png"></a>&nbsp;&nbsp;
+<a href="https://ritikaagrawal08.gumroad.com/"><img width="38" height="38" src="/images/gumroad.png"></a>&nbsp;&nbsp;
  </p>
 
    <p>
@@ -77,6 +77,6 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 <br/>
 
 <p  align="right">
- <a href="https://buymeacoffee.com/ritikaagrawal08"><img height="80" src="/images/coffee.gif"></a>
+ <a href="https://buymeacoffee.com/ritikaagrawal08"><img width="80" height="80" src="/images/coffee.gif"></a>
 </p>
 
