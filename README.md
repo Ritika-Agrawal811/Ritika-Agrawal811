@@ -63,7 +63,7 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 
 ![Ritika's Github Stats](https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ritika-Agrawal811)](https://git.io/streak-stats)
+[![Ritika's GitHub Streak](https://streak-stats.demolab.com?user=Ritika-Agrawal811)](https://git.io/streak-stats)
 
 ## :books: My Blogs
 
