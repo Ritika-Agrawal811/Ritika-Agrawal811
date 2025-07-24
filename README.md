@@ -58,12 +58,9 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman)](https://skillicons.dev)
 
 
-
 ## :star: My GitHub Stats
 
-![Ritika's Github Stats](https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true)
-
-[![Ritika's GitHub Streak](https://streak-stats.demolab.com?user=Ritika-Agrawal811)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true"/> &nbsp; &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=420"/>
 
 ## :books: My Blogs
 
