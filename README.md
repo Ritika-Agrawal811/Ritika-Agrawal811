@@ -64,10 +64,7 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 
 ## :books: My Blogs
 
-- [::before/::after — A Complete Guide](https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520)
-- [Getting comfortable with CSS Position Property](https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f)
-- [Diving deep into z-index property](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec)
-- [Exploring CSS Flexbox: Getting Started with the Basics](https://medium.com/@RitikaAgrawal08/exploring-css-flexbox-getting-started-with-the-basics-1174eea3ad4e)
+<img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520&t=2" alt="::before/::after — A Complete Guide" /> &nbsp; <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f" alt="Getting comfortable with CSS Position Property" /> &nbsp; <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g" alt="All About 'margin: auto' in CSS: Centering and More" />
 
 
 <br/>
