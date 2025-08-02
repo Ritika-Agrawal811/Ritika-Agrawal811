@@ -64,9 +64,9 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 
 ## :books: My Blogs
 
-[![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical)](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) &nbsp; [![Blog](https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g&layout=vertical)](https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g) &nbsp; [![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d&layout=vertical)](https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d)
+[![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical)](https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec) &nbsp; &nbsp; [![Blog](https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g&layout=vertical)](https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g) &nbsp;&nbsp; [![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d&layout=vertical)](https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d)
 
-[![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4)](https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4) &nbsp;
+[![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4)](https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4) &nbsp; &nbsp;
 [![Blog](https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)](https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)
 
 
