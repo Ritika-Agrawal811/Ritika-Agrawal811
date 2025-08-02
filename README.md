@@ -64,7 +64,9 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 
 ## :books: My Blogs
 
-<a href="https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520"><img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/before-after-a-complete-guide-5ae39240d520&t=2" /></a> &nbsp; <a href="https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f"><img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/getting-comfortable-with-css-position-property-5ba7afe8299f"/></a> &nbsp; <a href="https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g"><img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g"/></a>
+
+
+[![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/recreating-marquee-loop-animation-with-css-ef3faa24d2ab)](https://medium.com/@RitikaAgrawal08/recreating-marquee-loop-animation-with-css-ef3faa24d2ab)
 
 
 <br/>
