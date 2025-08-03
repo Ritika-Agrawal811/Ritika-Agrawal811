@@ -33,9 +33,13 @@
 <p> 
 I actively share valuable web development insights on Twitter/X. I am currently honing my backend skills while contributing to a startup's success.</p>
 
+
 #### Yes, this is made with CSS :point_down: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)! 
 
 <img src="images/slinky.png" alt="my single div slinky CSS art" style=" height:250px;"/>
+
+
+<br/>
 
 ## :books: My Blogs
 
@@ -44,9 +48,17 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 [![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4)](https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4) &nbsp; &nbsp;
 [![Blog](https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)](https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)
 
+
+<br/>
+<br/>
+
 ## :star: My GitHub Stats
 
 <img src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
+
+
+<br/>
+<br/>
 
 ## :computer: My Tech Stack
 
