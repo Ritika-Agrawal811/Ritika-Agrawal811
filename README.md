@@ -48,6 +48,10 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 [![Blog](https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4)](https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4) &nbsp; &nbsp;
 [![Blog](https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)](https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852)
 
+<a href="https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-585" target="_blank">
+<img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852"/>
+</a>
+
 
 <br/>
 <br/>
