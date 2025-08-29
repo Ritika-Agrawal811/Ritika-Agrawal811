@@ -64,7 +64,7 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 
 ## :star: My GitHub Stats
 
-<img src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
+<img src="https://github-readme-stats-git-master-ritika-agrawals-projects.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
 
 
 <br/>
