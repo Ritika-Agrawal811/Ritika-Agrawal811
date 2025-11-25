@@ -44,18 +44,18 @@ I actively share valuable web development insights on Twitter/X. I am currently 
 ## :books: My Blogs
 
 <a href="https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec">
-  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical" alt="Counters in CSS"/>
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical&theme=default" alt="Counters in CSS"/>
 </a> &nbsp; &nbsp; <a href="https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g">
-  <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g&layout=vertical" alt="margin: auto in CSS"/>
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g&layout=vertical&theme=default" alt="margin: auto in CSS"/>
 </a> &nbsp;&nbsp; <a href="https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d">
-  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d&layout=vertical" alt="margin collapscing in CSS"/>
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d&layout=vertical&theme=default" alt="margin collapscing in CSS"/>
 </a> 
 <br/> <br/>
 <a href="https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4">
-  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4&layout=horizontal" alt="Counters in CSS"/>
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/what-are-counters-in-css-98b3679c44a4&layout=horizontal&theme=default" alt="Counters in CSS"/>
 </a> &nbsp; &nbsp;
 <a href="https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852">
-  <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852&layout=horizontal" alt="Pseudo elements in CSS"/>
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852&layout=horizontal&theme=default" alt="Pseudo elements in CSS"/>
 </a>
 
 
