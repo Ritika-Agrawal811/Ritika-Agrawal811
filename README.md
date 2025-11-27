@@ -24,19 +24,24 @@
 </p>
 </div>
 
-### More about me :point_down:
 - 📕 An avid reader, foodie and love to watch anime.
 - 🖍️ I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
-- 🔥 Always striving to work hard & learn new tools.
-- 👯 Looking to connect with people, share ideas and knowledge with them.
-
-<p> 
-I actively share valuable web development insights on Twitter/X. I am currently honing my backend skills while contributing to a startup's success.</p>
-
 
 #### Yes, this is made with CSS :point_down: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)! 
 
 <img src="images/slinky.png" alt="my single div slinky CSS art" style=" height:250px;"/>
+
+<br/>
+
+## :computer: My Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,typescript,redux,go,nodejs,graphql,kafka,redis,supabase,postgres,mongodb,mysql,git,github,docker,vscode,postman)](https://skillicons.dev)
+
+<br/>
+
+## :star: My GitHub Stats
+
+<img src="https://github-readme-stats-git-master-ritika-agrawals-projects.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
 
 
 <br/>
@@ -58,41 +63,8 @@ I actively share valuable web development insights on Twitter/X. I am currently 
   <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/beforeafter-pseudo-elements-in-css-a-complete-guide-5852&layout=horizontal&theme=default" alt="Pseudo elements in CSS"/>
 </a>
 
-
-<br/>
 <br/>
 
-## :star: My GitHub Stats
-
-<img src="https://github-readme-stats-git-master-ritika-agrawals-projects.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
-
-
-<br/>
-<br/>
-
-## :computer: My Tech Stack
-
-### Frontend
-
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,typescript,redux)](https://skillicons.dev)
-
-
-### Backend
-
-[![Backend Skills](https://skillicons.dev/icons?i=go,nodejs,graphql,kafka,redis)](https://skillicons.dev)
-
-### Databases
-
-[![Databases](https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql)](https://skillicons.dev)
-
-
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman)](https://skillicons.dev)
-
-
-<br/>
-<br/>
 
 <p  align="right">
  <a href="https://buymeacoffee.com/ritikaagrawal08"><img width="80" height="80" src="/images/coffee.gif"></a>
