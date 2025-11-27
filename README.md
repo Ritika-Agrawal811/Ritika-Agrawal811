@@ -24,8 +24,10 @@
 </p>
 </div>
 
-- 📕 An avid reader, foodie and love to watch anime.
-- 🖍️ I love to sketch too. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
+- 📕 I love reading novels.
+- 🍫 Food is my comfort especially desserts 
+- 🖍️ I enjoy sketching. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
+- 🎥 I like watching animes, movies and TV shows.
 
 #### Yes, this is made with CSS :point_down: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)! 
 
@@ -33,7 +35,7 @@
 
 <br/>
 
-## :computer: My Tech Stack
+
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,typescript,redux,go,nodejs,graphql,kafka,redis,supabase,postgres,mongodb,mysql,git,github,docker,vscode,postman)](https://skillicons.dev)
 
