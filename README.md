@@ -29,26 +29,27 @@
 - 🖍️ I enjoy sketching. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
 - 🎥 I like watching animes, movies and TV shows.
 
-#### Yes, this is made with CSS :point_down: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)! 
 
+
+#### Yes, this is made with CSS :point_down: Checkout my [codepens](https://codepen.io/RitikaAgrawal08)!
 <img src="images/slinky.png" alt="my single div slinky CSS art" style=" height:250px;"/>
 
 <br/>
 
-
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,typescript,redux,go,nodejs,graphql,kafka,redis,supabase,postgres,mongodb,mysql,git,github,docker,vscode,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,next,svelte,php,tailwind,bootstrap,typescript,redux,go,nodejs,graphql,kafka,redis,supabase,postgres,mongodb,mysql,git,github,docker,vscode,postman)](https://skillicons.dev)
 
 <br/>
 
-## :star: My GitHub Stats
+<h3> :star: My GitHub Stats </h3> 
+<br/>
 
-<img src="https://github-readme-stats-git-master-ritika-agrawals-projects.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
+<img src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
 
 
 <br/>
 
-## :books: My Blogs
+<h3> :books: My Blogs </h3> 
+<br/>
 
 <a href="https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec">
   <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical&theme=default" alt="Counters in CSS"/>
@@ -66,6 +67,12 @@
 </a>
 
 <br/>
+<br/>
+
+Generate your own blog cards from [here](https://github.com/Ritika-Agrawal811/github-readme-blog-cards).
+
+
+
 
 
 <p  align="right">
