@@ -24,6 +24,8 @@
 </p>
 </div>
 
+<img align="right" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=Ritika-Agrawal811&layout=compact"/>
+
 - 📕 I love reading novels.
 - 🍫 Food is my comfort especially desserts 
 - 🖍️ I enjoy sketching. See my [drawings](https://codepen.io/RitikaAgrawal08/full/WNwZzyb)
@@ -43,7 +45,7 @@
 <h3> :star: My GitHub Stats </h3> 
 <br/>
 
-<img src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> &nbsp; <img src="https://streak-stats.demolab.com?user=Ritika-Agrawal811&hide_total_contributions=true&card_width=390"/>
+<img src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=Ritika-Agrawal811&show_icons=true&card_width=300"/> 
 
 
 <br/>
