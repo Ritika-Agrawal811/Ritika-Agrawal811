@@ -24,6 +24,8 @@
 </p>
 </div>
 
+<br/>
+
 <img align="right" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=Ritika-Agrawal811&layout=compact"/>
 
 - 📕 I love reading novels.
