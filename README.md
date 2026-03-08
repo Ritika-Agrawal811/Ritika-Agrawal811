@@ -56,7 +56,7 @@
 <br/>
 
 <a href="https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec">
-  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical&theme=default" alt="Counters in CSS"/>
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://medium.com/@RitikaAgrawal08/diving-deep-into-z-index-property-d60e3443f4ec&layout=vertical&theme=default" alt="Z index property in CSS"/>
 </a> &nbsp; &nbsp; <a href="https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g">
   <img src="https://github-readme-blog-cards.onrender.com?url=https://dev.to/ritikaagrawal08/all-about-margin-auto-in-css-centering-and-more-2b2g&layout=vertical&theme=default" alt="margin: auto in CSS"/>
 </a> &nbsp;&nbsp; <a href="https://medium.com/@RitikaAgrawal08/the-6-must-know-rules-of-margin-collapsing-in-css-56968836827d">
